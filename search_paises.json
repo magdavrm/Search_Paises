@@ -1,0 +1,23 @@
+{
+  "title": "Search Países",
+  "description": "Aplicação criada com o intuito de mostrar as características existentes em cada país como: Continente, Capital, Moeda, Idioma",
+  "repository": "https://github.com/magdavrm/Search_Paises.git",
+  "course": "cstsi",
+  "session": "2018.1",
+  "subject": "ls",
+  "campus": "João Pessoa",
+  "topics": [
+    "js"
+  ],
+  "owners": [
+    {
+      "id": "20142370120"
+      "name": "Alamo Nunes"
+    }
+    {
+      "id": "20162370015"
+      "name": "Magda Virgilia"
+      "github": "https://github.com/magdavrm"
+    }
+  ]
+}
