@@ -1,7 +1,7 @@
 {
   "title": "Search Países",
   "description": "Aplicação criada com o intuito de mostrar as características existentes em cada país como: Continente, Capital, Moeda, Idioma",
-  "demo": "",
+  "demo": "https://magdavrm.github.io/Search_Paises/",
   "repository": "https://github.com/magdavrm/Search_Paises",
   "course": "cstsi",
   "session": "2018.1",
